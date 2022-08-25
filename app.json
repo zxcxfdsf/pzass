@@ -1,7 +1,7 @@
 {
-    "name": "Deploy",
-    "description": "Deploy",
-    "keywords": ["Deploy"],
+    "name": "cands",
+    "description": "cans no dawa",
+    "keywords": ["asfl"],
     "env": {
         "VmessUUID": {
             "description": "Vmess UUID. Use UUID tools to generate you own UUID.",
